@@ -1,6 +1,7 @@
 const CACHE_NAME = 'powerform-v1';
 const urlsToCache = [
-  './workout-app.html',
+  './index.html',
+  './',
   './manifest.json'
 ];
 

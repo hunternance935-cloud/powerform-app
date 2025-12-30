@@ -2,7 +2,7 @@
   "name": "POWERFORM - Workout Tracker",
   "short_name": "POWERFORM",
   "description": "Track your workouts and build strength",
-  "start_url": "./workout-app.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
